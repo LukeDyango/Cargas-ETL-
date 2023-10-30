@@ -1,0 +1,10 @@
+
+-extraer el winrrar
+
+-asegurarse que la carpeta img se encuentre junto a Cargas.exe
+
+-Crear un acceso directo de Cargas.exe en el escritorio (Opcional)
+
+-Ejecutar 
+
+-Ejecutar Hacer La Carpeta del dia ANTES de ejecutar las cargas
